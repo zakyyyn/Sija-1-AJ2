@@ -37,5 +37,5 @@ jobs:
 
 
       - name: Cetak Tanggal
-      - run: date
+        run: date
       
